@@ -1,0 +1,15 @@
+*.exe
+*.obj
+*.err
+*.lst
+
+*.EXE
+*.OBJ
+*.ERR
+*.LST
+*.COM
+*.ASM
+TMP
+
+*_1.asm
+*_2.asm
