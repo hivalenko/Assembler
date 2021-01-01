@@ -18,6 +18,4 @@ Example
 ; номера байта из исходной строки, причем если бит установлен в 1, то соответствующий ему байт должен быть обработан при формировании первой строки результата.
 ; ==========================================================================================
 ```
-I don't want to translate this tasks.
-
-This task mostly simple operations: string validation, convertations from decimal system to other, reading data from keyboard etc.
+This tasks perfores mostly simple operations: string validation, convertations from decimal system to other, reading data from keyboard etc.
